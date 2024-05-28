@@ -1,4 +1,4 @@
-streamlit
+fulSoupstreamlit
 requests
-bs4
+BeautifulSoup
 pandas
